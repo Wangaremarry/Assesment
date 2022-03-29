@@ -1,0 +1,19 @@
+img{
+    width: 300px;
+    height: 300px;
+}
+body{
+    background-image:url(/pawel-czerwinski-OG44d93iNJk-unsplash.jpg) ;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: fill;
+}
+button{
+    color: black;
+    font-style: initial;
+    font: bold;
+}
+video{
+    width: 400px;
+    height: 400px;
+}

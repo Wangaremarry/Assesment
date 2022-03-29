@@ -1,0 +1,10 @@
+body{
+    background-image: url(/sharon-mccutcheon-XeEvy_ofGNk-unsplash.jpg);
+    background-position: center;
+    background-size: fill;
+    background-repeat: no-repeat;
+}
+img{
+    width: 400px;
+    height: 400px;
+}

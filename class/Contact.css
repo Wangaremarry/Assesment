@@ -1,0 +1,16 @@
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+th{
+    text-align: left;
+}
+table{
+    position: right;
+}
+body{
+    background-image:url(/luise-and-nic-Q_LffdLyQqk-unsplash.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: fill;
+}
